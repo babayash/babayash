@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babayash
 - 👀 I’m interested in CYBER SECURITY
-- 🌱 I’m currently learning MALWARE SANDBOXING
+- 🌱 I’m currently Working on MALWARE SANDBOXING, Enumeration, IoT Attaks Capturing, Honeypots.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yashsingh066@gmail.com
 
